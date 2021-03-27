@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Bunker-Kenyon/cs-313-team04/issues"
   },
-  "homepage": "https://github.com/Bunker-Kenyon/cs-313-team04#readme"
+  "homepage": "https://github.com/Bunker-Kenyon/cs-313-team04#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "jquery": "^3.6.0",
+    "jsquery": "^1.1.1"
+  }
 }
